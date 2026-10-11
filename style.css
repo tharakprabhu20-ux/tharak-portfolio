@@ -343,6 +343,7 @@ section {
 .hero h1 span.gradient-text {
   background: var(--gradient-mild);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
